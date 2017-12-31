@@ -1,3 +1,6 @@
 #fact {
   display: none;
 }
+input { 
+    text-align: center; 
+}
